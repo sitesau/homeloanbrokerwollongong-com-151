@@ -1,0 +1,22 @@
+{
+  "wheel_id": 614,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-com-151",
+  "project": "mortgage-brokers-wollongong-local-options-compared-09464a607c42",
+  "parent_t1_ref": "homeloanbrokerwollongong.com-009",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong local options compared",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-wollongong-local-options-compared-09464a607c42/",
+  "tier": "T2",
+  "writeback_nonce": "e3fcc22e021b28d3",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/homeloanbrokerwollongong.com-009/mortgage-brokers-wollongong.html",
+      "anchor": "Mortgage Brokers Wollongong: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
